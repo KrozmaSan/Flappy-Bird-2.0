@@ -1,0 +1,10 @@
+bg0Name:Day;
+bg0Cond:D;
+bg1Name:Seaside;
+bg1Cond:10;
+bg2Name:Forest;
+bg2Cond:20;
+bg3Name:Cavern;
+bg3Cond:30;
+bg4Name:Mountains;
+bg4Cond:40;
